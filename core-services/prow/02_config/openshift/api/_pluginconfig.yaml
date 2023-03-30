@@ -17,6 +17,7 @@ label:
       - sttts
       - s-urbaniak
       - tkashem
+      - JoelSpeed
       label: backport-risk-assessed
 plugins:
   openshift/api:
